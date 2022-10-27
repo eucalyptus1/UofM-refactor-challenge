@@ -13,4 +13,4 @@ HTML and CSS files were commented to identify each code block's respective secti
 https://eucalyptus1.github.io/UofM-refactor-challenge/
 
 
-![screenshot](assets\screenshot.png)
+![screenshot](./assets/screenshot.png)
