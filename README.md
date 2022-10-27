@@ -10,8 +10,7 @@ CSS styles for each element were arranged in sequential order according to the p
 HTML and CSS files were commented to identify each code block's respective section.
 
 ## Website
+https://eucalyptus1.github.io/UofM-refactor-challenge/
 
 
-
-
-![screenshot]()
+![screenshot](assets\screenshot.png)
